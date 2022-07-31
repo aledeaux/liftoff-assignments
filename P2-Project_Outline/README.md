@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Website will inform users of volunteer opportunities, and provide a way to sign up to volunteer.
+
 ### Features
-Include Features here
+1) Website will allow users to create accounts, and sign into the website with their user name and password.  
+2) If the user is an admin, they will be able to add, update or delete events.
+3) Users can search for volunteer opportunities.
+4) Users can sign up for volunteer opportunities.
+
 ### Technologies
-Include Technologies here
+Java, SpringBoot, html, Thymeleaf, MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+This is my first project starting from zero code, and also my first group project.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/hFPAhBlX/volunteer-organizer-project-board
