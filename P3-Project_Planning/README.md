@@ -26,4 +26,4 @@ https://trello.com/b/hFPAhBlX/volunteer-organizer-project-board
 
 Include a link to your project on GitHub.
 
-https://github.com/Jul-2022-LC-LiftOff/VolunteerOrganizer/tree/amy
+https://github.com/Jul-2022-LC-LiftOff/VolunteerOrganizer/
